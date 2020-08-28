@@ -1,5 +1,5 @@
 # txtFileGrapher
-A python project that used matplotlib to plot coordinates in a .txt file.
+A python project that used matplotlib to plot coordinates in the dataPoints.txt file.
 
 # Accepted Format
 A list of coordinates each separated by a new line.
