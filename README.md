@@ -20,6 +20,8 @@ This is a project I was encourage to do by one of my TAs at Auburn Univsersity. 
 In order to run, clone this repo onto your local machine.</br>
 Edit the dataPoints.txt file to add your coordinates. Accepted format: </br>
 > A list of coordinates, each separated by a new line, with the x and y value for each coordinate separated by a single tab.
+Edit table variables if wanted.
+Run the program.
 
 ## Features
 Implemented:
